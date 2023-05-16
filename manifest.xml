@@ -6,6 +6,7 @@
   <project name="TrebleDroid/vendor_interfaces" path="vendor/interfaces" remote="github" revision="android-13.0" />
   <project name="TrebleDroid/treble_app" path="treble_app" remote="github" revision="master" />
   <project name="phhusson/vendor_magisk" path="vendor/magisk" remote="github" revision="android-10.0" />
+  <project name="AndyCGYan/android_device_lineage_gsi" path="device/lineage/gsi" remote="github" revision="lineage-20" />
   <project name="AndyCGYan/android_packages_apps_QcRilAm" path="packages/apps/QcRilAm" remote="github" revision="master" />
   <project name="ponces/sas-creator" path="sas-creator" remote="github" revision="master" />
 </manifest>
